@@ -28,4 +28,4 @@ n.del_var("Name")                                       # Remove your variable
 n.del_proj(password)                                    # Remove your base (with all variables)                               
 _____________________________________________________________________________________________________________________________ 
 
-Example for the server is server.py, recommended for your server.
+Example for the server is server.py, recommended for use on your server.
